@@ -184,6 +184,34 @@ Beispiel
 **Ergebnis**
 \# Das ist keine Überschrift, sondern normaler Text (weil ein Backslash davor ist).
 
+# Beispiel für ein "Projektbezogenes" README-File
 
+## Klassen-Projekt: Taschenrechner
+
+Dieses Projekt ist ein einfacher Taschenrechner für die Grundrechenarten (Plus, Minus, Mal, Geteilt).
+
+## Was kann der Taschenrechner?
+- Addition (+)
+- Subtraktion (-)
+- Multiplikation (×)
+- Division (÷)
+
+## Wie benutzt man das Projekt?
+1. Öffne die Datei `Calculator.html` im Browser.
+2. Gib zwei Zahlen ein.
+3. Wähle eine Rechenart.
+4. Das Ergebnis wird angezeigt.
+
+## Dateien im Projekt
+- `index.html` – Oberfläche (was man im Browser sieht)
+- `style.css` – Design
+- `script.js` – Rechenlogik
+- `README.md` – diese Anleitung
+
+## Hilfe
+Wenn etwas nicht funktioniert:
+- Seite neu laden
+- Zahlen prüfen (z.B. keine Buchstaben eingeben)
+- PO anfragen
 
 
